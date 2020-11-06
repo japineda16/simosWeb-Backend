@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
@@ -173,6 +176,7 @@
       <workItem from="1603986440522" duration="7305000" />
       <workItem from="1604006858346" duration="4000" />
       <workItem from="1604426609074" duration="607000" />
+      <workItem from="1604509352507" duration="2444000" />
     </task>
     <servers />
   </component>
