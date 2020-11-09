@@ -21,6 +21,7 @@ Route::group(['prefix' => 'auth'], function () {
     Route::group(['middleware' => 'auth:api'], function() {
         Route::get('logout', [\App\Http\Controllers\Auth\AuthController::class, 'logout']);
         Route::get('user', [\App\Http\Controllers\Auth\AuthController::class, 'user']);
+        Route::patch('update-password', [\App\Http\Controllers\Auth\AuthController::class, 'updateUser']);
     });
 });
 

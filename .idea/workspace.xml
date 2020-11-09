@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7777de22-9816-401f-a64d-be5a32b7bea9" name="Default Changelist" comment="" />
+    <list default="true" id="7777de22-9816-401f-a64d-be5a32b7bea9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +144,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jT8XxCmCkzCSPjl3jeEPpwJkXz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -176,7 +183,9 @@
       <workItem from="1603986440522" duration="7305000" />
       <workItem from="1604006858346" duration="4000" />
       <workItem from="1604426609074" duration="607000" />
-      <workItem from="1604509352507" duration="2444000" />
+      <workItem from="1604509352507" duration="3302000" />
+      <workItem from="1604692863803" duration="63000" />
+      <workItem from="1604932028083" duration="2009000" />
     </task>
     <servers />
   </component>

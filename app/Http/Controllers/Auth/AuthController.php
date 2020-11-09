@@ -65,4 +65,11 @@ class AuthController extends Controller
     {
         return response()->json($request->user());
     }
+
+    public function updateUser(Request $request)
+    {
+        $request->user()->password = bcrypt($request->newPassword);
+        $request->user()->save();
+        return response()->json($request->user());
+    }
 }
