@@ -29,4 +29,6 @@ Route::group(['middleware' => 'auth:api'], function () {
     Route::post('cycles', [\App\Http\Controllers\CyclesController::class, 'getOrders']);
     Route::get('cycles', [\App\Http\Controllers\CyclesController::class, 'getLast']);
     Route::post('orders', [\App\Http\Controllers\OrdersController::class, 'getOrders']);
+    Route::post('payments', [\App\Http\Controllers\Payments\PaymentsController::class, 'getPayments']);
+    Route::get('payments', [\App\Http\Controllers\Payments\PaymentsController::class, 'getLast']);
 });

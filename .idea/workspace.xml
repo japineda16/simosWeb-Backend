@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7777de22-9816-401f-a64d-be5a32b7bea9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +183,8 @@
       <workItem from="1604509352507" duration="3302000" />
       <workItem from="1604692863803" duration="63000" />
       <workItem from="1604932028083" duration="2009000" />
-      <workItem from="1605021838775" duration="932000" />
+      <workItem from="1605021838775" duration="1091000" />
+      <workItem from="1606316221112" duration="1936000" />
     </task>
     <servers />
   </component>
@@ -194,10 +196,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603987194344" />
-    <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603858006202">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="378" y="169" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606317867378">
+      <screen x="0" y="25" width="1280" height="713" />
     </state>
     <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603858006202" />
+    <state x="378" y="169" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1280.713@0.25.1280.713" timestamp="1606317867378" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1603858261642">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
