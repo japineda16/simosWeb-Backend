@@ -10,6 +10,13 @@ class Payment extends Model
     use HasFactory;
     protected $fillable = [
         'cash', 'multipago', 'wire_transfer', 'zelle', 'amount_zelle',
-        'amount_transfer', 'amount_multipago', 'total_orders', 'total'
+        'amount_transfer', 'amount_multipago', 'total_orders', 'total',
+        'method'
     ];
+    public $json;
+
+    protected $casts = [
+        'method' => 'array',
+    ];
+
 }
