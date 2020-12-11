@@ -12,7 +12,7 @@ class PaymentsController extends Controller
 
         $orders = Payment::create($request->all());
 
-        return response()->json($orders);
+        return response()->json([$orders, 'Created successfully']);
     }
 
     public function getLast() {
