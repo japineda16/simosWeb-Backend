@@ -31,4 +31,5 @@ Route::group(['middleware' => 'auth:api'], function () {
     Route::post('orders', [\App\Http\Controllers\OrdersController::class, 'getOrders']);
     Route::post('payments', [\App\Http\Controllers\Payments\PaymentsController::class, 'getPayments']);
     Route::get('payments', [\App\Http\Controllers\Payments\PaymentsController::class, 'getLast']);
+    Route::post('new-payment', [\App\Http\Controllers\Payments\PaymentsController::class, 'getPayments']);
 });
