@@ -10,7 +10,9 @@ class PaymentsController extends Controller
 {
     public function getPayments(Request $request) {
 
-        $orders = Payment::create($request->all());
+        // $orders = Payment::create($request->all());
+
+        $orders = $request->all();
 
         return response()->json($orders);
     }
