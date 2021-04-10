@@ -10,7 +10,7 @@ class CyclesController extends Controller {
 
         $orders = Cycles::create($request->all());
 
-        return response()->json($orders);
+        return response()->json([$orders, $request->all()]);
     }
 
     public function getLast() {
