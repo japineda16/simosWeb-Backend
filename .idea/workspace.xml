@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7777de22-9816-401f-a64d-be5a32b7bea9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Cycles.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Cycles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_04_10_145001_add_new_fields_to_cycles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_04_10_145001_add_new_fields_to_cycles_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +194,7 @@
       <workItem from="1607662072803" duration="210000" />
       <workItem from="1607694391097" duration="1000" />
       <workItem from="1607694721525" duration="779000" />
-      <workItem from="1618066075642" duration="282000" />
+      <workItem from="1618066075642" duration="435000" />
     </task>
     <servers />
   </component>

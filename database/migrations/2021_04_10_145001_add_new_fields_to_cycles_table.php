@@ -14,8 +14,8 @@ class AddNewFieldsToCyclesTable extends Migration
     public function up()
     {
         Schema::table('cycles', function (Blueprint $table) {
-            $table->bigInteger('ped_asig_recoleccion');
-            $table->bigInteger('ped_recolectandose');
+            $table->bigInteger('ped_asig_recoleccion')->default(0);
+            $table->bigInteger('ped_recolectandose')->default(0);
         });
     }
 

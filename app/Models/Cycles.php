@@ -11,6 +11,6 @@ class Cycles extends Model
 
     protected $fillable = [
         'cycles', 'nro_invoices', 'nro_orders', 'nro_last_invoice', 'waiting', 'to_be_downloaded',
-        'ped_fact', 'ped_Despac'
+        'ped_fact', 'ped_Despac', 'ped_asig_recoleccion', 'ped_recolectandose'
     ];
 }
