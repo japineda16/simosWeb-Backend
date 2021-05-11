@@ -17,4 +17,9 @@ class CyclesController extends Controller {
         $query = Cycles::latest('id')->first();
         return response()->json($query);
     }
+    public function getHealth() {
+        return response()->json([
+            'status' => 'OK'
+        ]);
+    }
 }
