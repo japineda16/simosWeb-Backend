@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7777de22-9816-401f-a64d-be5a32b7bea9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CyclesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CyclesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_04_10_145001_add_new_fields_to_cycles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_04_10_145001_add_new_fields_to_cycles_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +196,10 @@
       <workItem from="1618066075642" duration="535000" />
       <workItem from="1618071768211" duration="419000" />
       <workItem from="1620729455374" duration="334000" />
+      <workItem from="1621092855804" duration="250000" />
+      <workItem from="1621094960867" duration="224000" />
+      <workItem from="1621099681169" duration="130000" />
+      <workItem from="1621149845364" duration="561000" />
     </task>
     <servers />
   </component>
