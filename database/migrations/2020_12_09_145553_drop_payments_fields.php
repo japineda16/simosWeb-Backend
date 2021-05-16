@@ -21,7 +21,7 @@ class DropPaymentsFields extends Migration
             $table->dropColumn('amount_zelle');
             $table->dropColumn('amount_transfer');
             $table->dropColumn('amount_multipago');
-            $table->json('method')->nullable();
+            $table->json('method');
         });
     }
 
